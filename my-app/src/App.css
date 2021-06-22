@@ -1,5 +1,6 @@
 body {
-  background: green;
+  background: linear-gradient(180deg, rgba(4,121,45,1) 0%, rgba(127,187,50,1) 15%, rgba(182,206,48,1) 33%, rgba(214,217,47,1) 55%, rgba(233,219,22,1) 100%);
+  height: auto;
 }
 
 .app{
