@@ -58,12 +58,14 @@ export default function Posts(){
                 })}
                     
                 
-                </div> */}
-            {/* fin componente */}
+                </div> 
+            {/* fin componente 
             <Paginador
                 pages={pages}
                 current={current}
                 handlePaginador={setCurrent} />
+                
+                */}
         </div>
         </>
     )
