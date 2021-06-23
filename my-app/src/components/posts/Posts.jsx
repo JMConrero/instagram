@@ -43,7 +43,7 @@ export default function Posts(){
                             <img src={post.image} alt={post.id}/>
                         </a>
                     )
-                })}
+                }).reverse()}
                 
             </div>
             {/* <div className="rest-layout">
