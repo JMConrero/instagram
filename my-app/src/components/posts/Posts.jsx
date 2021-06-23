@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import './post.css'
 import Paginador from '../paginador/Paginador'
+import post from '../../post/post'
 
 
 export default function Posts(){
@@ -36,9 +37,16 @@ export default function Posts(){
             <p className="title">En los medios</p>
             {/* esto será un componente */}
             <div className="layout">
-                <a className="class1"></a>
+                {post.map((post, index)=>{
+                    return(
+                        <a className="class1" key={index}  href={post.url}>
+                            <img src={post.image} alt={post.id}/>
+                        </a>
+                    )
+                })}
+                
             </div>
-            <div className="rest-layout">
+            {/* <div className="rest-layout">
                 {postList.map((post)=>{
                     return(
                         
@@ -50,7 +58,7 @@ export default function Posts(){
                 })}
                     
                 
-                </div>
+                </div> */}
             {/* fin componente */}
             <Paginador
                 pages={pages}
