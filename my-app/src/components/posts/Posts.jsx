@@ -34,7 +34,7 @@ export default function Posts(){
     return(
         <>
         <div className="post-container">
-            <p className="title">En los medios</p>
+            <p className="title">Novedades</p>
             {/* esto será un componente */}
             <div className="layout">
                 {post.map((post, index)=>{
