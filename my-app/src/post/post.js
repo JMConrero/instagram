@@ -22,7 +22,12 @@ const post = [
     {
         id:"005",
         url:'http://www.agro.unc.edu.ar/~alumnos/?page_id=3554',
-        image: 'https://scontent.fcor11-1.fna.fbcdn.net/v/t39.30808-6/217991621_1396942604022264_4818815105507439299_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=KfWweF16hQcAX89ClgH&_nc_ht=scontent.fcor11-1.fna&oh=d7d7356dca57874853025c216e641e77&oe=60F234A4'
+        image: 'http://www.agro.unc.edu.ar/uploads/aci/principales/1626445709/principal.jpg'
+    },
+    {
+        id:"006",
+        url:"https://vacunacioncovid19.cba.gov.ar/",
+        image:"https://i.postimg.cc/N0wDwVP5/Mesa-de-trabajo-1-copia-13.jpg"
     }
  ]
  
