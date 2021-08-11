@@ -13,6 +13,8 @@ export default function Posts(){
                 <div className="info">
                     <h1 className="name">Ing. Agr. Juan Marcelo Conrero</h1>
                     <p className="bio">Reformista. Emprendedor. Producto de la Universidad Pública. Agricultor. Decano FCA UNC. Titular Área de Gestión Institucional UNC</p>
+                    <a href="https://www.unc.edu.ar/comunicaci%C3%B3n/elecciones-en-la-unc-ya-est%C3%A1-disponible-el-registro-para-que-puedan-inscribirse"
+                    target="_blank" className="bio">Inscribite para votar en las Próximas elecciones haciendo click acá</a>
                 </div>
             </div>
             <div className="social">

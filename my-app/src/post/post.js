@@ -28,6 +28,21 @@ const post = [
         id:"006",
         url:"https://vacunacioncovid19.cba.gov.ar/",
         image:"https://i.postimg.cc/N0wDwVP5/Mesa-de-trabajo-1-copia-13.jpg"
+    },
+    {
+        id:"Nota supercomputadora UNC",
+        url:"https://www.infobae.com/educacion/2021/08/04/la-universidad-de-cordoba-estrena-la-supercomputadora-mas-potente-del-pais-como-es-y-para-que-se-usara/",
+        image:"https://i.postimg.cc/hPp51Byy/image.png"
+    },
+    {
+        id:"Jornada INTA",
+        url:"www.youtube.com/watch?v=KFsKzcrx-bk",
+        image:"https://i.postimg.cc/gkXL2ckL/image.png"
+    },
+    {
+        id:"Elecciones UNC",
+        url:"https://www.unc.edu.ar/comunicaci%C3%B3n/elecciones-en-la-unc-ya-est%C3%A1-disponible-el-registro-para-que-puedan-inscribirse",
+        image:"https://i.postimg.cc/QCLRqWPz/imagen.png"
     }
  ]
  
