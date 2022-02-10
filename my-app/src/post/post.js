@@ -93,6 +93,11 @@ const post = [
         id:"Reconversión de las Universidades",
         url:"https://www.perfil.com/noticias/cordoba/la-reconversion-de-las-universidades-es-una-necesidad-y-una-obligacion.phtml",
         image:"https://fotos.perfil.com/2021/10/30/trim/950/534/31-10-2021-hugo-juri-1262360.jpg?webp"
+    },
+    {
+        id:"Universalizar la educación superior, un objetivo inminente",
+        url:"https://www.lavoz.com.ar/opinion/universalizar-la-educacion-superior-un-objetivo-inminente/",
+        image:"https://i.postimg.cc/fRLwY4L5/Whats-App-Image-2022-02-10-at-10-40-32-AM.jpg"
     }
  ]
  export default post;

@@ -12,7 +12,7 @@ export default function Posts(){
                 <img src={profile} alt=""/>
                 <div className="info">
                     <h1 className="name">Ing. Agr. Juan Marcelo Conrero</h1>
-                    <p className="bio">Reformista. Emprendedor. Producto de la Universidad Pública. Agricultor. Decano FCA UNC. Titular Área de Gestión Institucional UNC</p>
+                    <p className="bio">Reformista. Emprendedor. Producto de la Universidad Pública. Agricultor. Titular Área de Gestión Institucional UNC</p>
                 </div>
             </div>
             <div className="social">
