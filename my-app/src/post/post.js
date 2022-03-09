@@ -103,6 +103,11 @@ const post = [
         id:"Campus Norte: el modelo educativo experimental al que apunta la UNC",
         url:"https://www.lavoz.com.ar/ciudadanos/campus-norte-el-modelo-educativo-experimental-al-que-apunta-la-unc/",
         image:"https://i.postimg.cc/B6wwGzZ4/imagen.png"
+    },
+    {
+        id:"Ciencia, tecnología e innovación para el crecimiento y el desarrollo sostenible",
+        url:"https://www.lavoz.com.ar/opinion/ciencia-tecnologia-e-innovacion-para-el-crecimiento-y-el-desarrollo-sostenible/",
+        image:"https://i.postimg.cc/Bn4p4vcJ/imagen.png"
     }
     
  ]
