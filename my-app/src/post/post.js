@@ -108,7 +108,17 @@ const post = [
         id:"Ciencia, tecnología e innovación para el crecimiento y el desarrollo sostenible",
         url:"https://www.lavoz.com.ar/opinion/ciencia-tecnologia-e-innovacion-para-el-crecimiento-y-el-desarrollo-sostenible/",
         image:"https://i.postimg.cc/Bn4p4vcJ/imagen.png"
-    }
+    },
+    {
+        id:"Inscripcion voto postal",
+        url:"https://eleccion-postal.unc.edu.ar/",
+        image:"https://i.postimg.cc/g2J3mLGZ/imagen.png"
+    },
+ {
+   id:"Foro Educativo",
+   url:"https://app.scholasoccurrentes.org/acreditaciones/registro-participante/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY3Rpdml0eSI6MTQyLCJzY2hvb2wiOjQ2fQ.fdGESw-304hyks4rDd05U-Vym6rEdikKij9J1eRBNnM",
+   image:"https://i.postimg.cc/zfWRDYc6/imagen.png"  
+ }   
     
  ]
  export default post;
