@@ -118,7 +118,12 @@ const post = [
    id:"Foro Educativo",
    url:"https://app.scholasoccurrentes.org/acreditaciones/registro-participante/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY3Rpdml0eSI6MTQyLCJzY2hvb2wiOjQ2fQ.fdGESw-304hyks4rDd05U-Vym6rEdikKij9J1eRBNnM",
    image:"https://i.postimg.cc/zfWRDYc6/imagen.png"  
- }   
+ }  ,
+ {
+    id:"Encuentro reformista",
+    url:"https://docs.google.com/forms/d/e/1FAIpQLSe6jh9AmSXa8B883Y3CofNXDOL7vQIOtd4g8-CT9YV08QlWvg/viewform?usp=sf_link",
+    image:"https://i.postimg.cc/rpJ7Fv2M/imagen.png"  
+  }   
     
  ]
  export default post;
