@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/instagram/static/css/main.157fe73d.chunk.css",
-    "main.js": "/instagram/static/js/main.bf7ef0e1.chunk.js",
-    "main.js.map": "/instagram/static/js/main.bf7ef0e1.chunk.js.map",
-    "runtime-main.js": "/instagram/static/js/runtime-main.a69742cb.js",
-    "runtime-main.js.map": "/instagram/static/js/runtime-main.a69742cb.js.map",
-    "static/js/2.7a8642de.chunk.js": "/instagram/static/js/2.7a8642de.chunk.js",
-    "static/js/2.7a8642de.chunk.js.map": "/instagram/static/js/2.7a8642de.chunk.js.map",
-    "static/js/3.25903401.chunk.js": "/instagram/static/js/3.25903401.chunk.js",
-    "static/js/3.25903401.chunk.js.map": "/instagram/static/js/3.25903401.chunk.js.map",
+    "main.js": "/instagram/static/js/main.0f66d7f2.chunk.js",
+    "main.js.map": "/instagram/static/js/main.0f66d7f2.chunk.js.map",
+    "runtime-main.js": "/instagram/static/js/runtime-main.7a53b043.js",
+    "runtime-main.js.map": "/instagram/static/js/runtime-main.7a53b043.js.map",
+    "static/js/2.92d87784.chunk.js": "/instagram/static/js/2.92d87784.chunk.js",
+    "static/js/2.92d87784.chunk.js.map": "/instagram/static/js/2.92d87784.chunk.js.map",
+    "static/js/3.11d3b74a.chunk.js": "/instagram/static/js/3.11d3b74a.chunk.js",
+    "static/js/3.11d3b74a.chunk.js.map": "/instagram/static/js/3.11d3b74a.chunk.js.map",
     "index.html": "/instagram/index.html",
     "static/css/main.157fe73d.chunk.css.map": "/instagram/static/css/main.157fe73d.chunk.css.map",
-    "static/js/2.7a8642de.chunk.js.LICENSE.txt": "/instagram/static/js/2.7a8642de.chunk.js.LICENSE.txt",
+    "static/js/2.92d87784.chunk.js.LICENSE.txt": "/instagram/static/js/2.92d87784.chunk.js.LICENSE.txt",
     "static/media/arrow-left.e6eb9be1.svg": "/instagram/static/media/arrow-left.e6eb9be1.svg",
     "static/media/arrow-right.3306c112.svg": "/instagram/static/media/arrow-right.3306c112.svg",
     "static/media/logo.6ce24c58.svg": "/instagram/static/media/logo.6ce24c58.svg",
     "static/media/profile.6575928c.jpg": "/instagram/static/media/profile.6575928c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a69742cb.js",
-    "static/js/2.7a8642de.chunk.js",
+    "static/js/runtime-main.7a53b043.js",
+    "static/js/2.92d87784.chunk.js",
     "static/css/main.157fe73d.chunk.css",
-    "static/js/main.bf7ef0e1.chunk.js"
+    "static/js/main.0f66d7f2.chunk.js"
   ]
 }
