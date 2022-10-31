@@ -123,7 +123,14 @@ const post = [
     id:"Encuentro reformista",
     url:"https://docs.google.com/forms/d/e/1FAIpQLSe6jh9AmSXa8B883Y3CofNXDOL7vQIOtd4g8-CT9YV08QlWvg/viewform?usp=sf_link",
     image:"https://i.postimg.cc/rpJ7Fv2M/imagen.png"  
-  }   
+  },   
+  {
+    id:"Ciclo DT - Trenes",
+    url:"https://forms.gle/fGz5MqWEwpSFWNVS6",
+    image:"https://i.postimg.cc/L4gf71Ys/PHOTO-2022-10-30-13-49-58.jpg"  
+  }
+    
+
     
  ]
  export default post;
